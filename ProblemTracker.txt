@@ -1,0 +1,6 @@
+This file contains problems and solutions occured while interfacing the RPi 3b+ with One MIPI Camera and One USB Camera
+
+SR			problem						solution
+1)		pi got crashed				Code optimization
+2)		slower response by pi		Code optimization by threading
+3)		pi overheating				UNSOLVED
